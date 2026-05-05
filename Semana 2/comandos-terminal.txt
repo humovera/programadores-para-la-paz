@@ -11,4 +11,4 @@ touch reflexion-semana2.txt
 git commit -m
 git push 
 git add
-git statusgit 
+git status
