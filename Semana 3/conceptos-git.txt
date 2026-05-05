@@ -1,0 +1,20 @@
+
+
+Escribe una explicación corta de los siguientes conceptos:
+
+-Repositorio
+-Commit
+-Push
+
+Cada explicación debe tener al menos 2 o 3 líneas.
+
+Respuesta:
+
+Repositorio: Un repositorio es el lugar donde se guarda todo el historial de un proyecto, incluyendo archivos, carpetas y cambios 
+ anteriores. Permite a los desarrolladores ver versiones anteriores, colaborar y recuperar código cuando sea necesario.
+
+Commit: Un commit es una “foto” del proyecto en un momento específico. Guarda los cambios realizados en los archivos junto con un
+ mensaje descriptivo para saber qué se modificó y por qué.
+
+Push: El push envía los commits locales al repositorio remoto, como GitHub. Así se comparte el trabajo con otras personas y se
+ sincroniza la versión local con la versión remota.
