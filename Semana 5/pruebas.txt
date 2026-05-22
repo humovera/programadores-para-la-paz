@@ -1,0 +1,14 @@
+
+Pruebas:
+
+Escribe brevemente en un archivo llamado pruebas.txt qué ocurre en cada una de esas rutas.
+
+Ruta https://ideal-carnival-779v7p4jvwqwcx7p4-3000.app.github.dev
+- El servidor responde con el texto "Servidor activo". Esto confirma que el servidor Express está funcionando.
+
+Ruta https://ideal-carnival-779v7p4jvwqwcx7p4-3000.app.github.dev/saludo
+- El servidor responde con el texto "Hola comunidad". Esta ruta muestra que se puede tener otra ruta GET con un mensaje diferente.
+
+Ruta https://ideal-carnival-779v7p4jvwqwcx7p4-3000.app.github.dev/mensaje/juan
+- El servidor responde con el texto "Hola juan". Esta ruta usa un parámetro de ruta (:nombre) para personalizar la respuesta en función
+ del valor enviado en la URL.

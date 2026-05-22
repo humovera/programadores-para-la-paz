@@ -1,0 +1,18 @@
+
+Reflexion Semana 5
+
+Escribe un texto de 8 a 10 líneas respondiendo la siguiente pregunta:
+
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada?
+
+
+Las APIs permiten a las comunidades enviar y recibir datos de manera estructurada y segura,
+creando canales formales para compartir información de eventos, reportes y alertas,
+lo que evita la dispersión de datos en mensajes sueltos o medios informales,
+ya que cada aplicación puede leer y procesar la misma información de forma uniforme,
+lo que facilita la coordinación entre grupos, voluntarios y organizaciones locales,
+además, las APIs pueden automatizar la entrega de alertas importantes en tiempo real,
+permitiendo que los sistemas reporten incidentes y actualizaciones sin intervención humana,
+esto ayuda a que la comunidad tenga una vista clara y organizada de lo que está pasando,
+los datos pueden ser almacenados y consultados fácilmente por diferentes servicios,
+y así las decisiones colectivas se basan en información disponible y compartida.
