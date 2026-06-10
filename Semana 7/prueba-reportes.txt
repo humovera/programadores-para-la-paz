@@ -1,0 +1,27 @@
+Para probar esta parte del servidor, primero ejecute el proyecto con:
+
+node server.js
+
+Luego envíe una petición POST a la ruta /reportes con este JSON:
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+El servidor guarda ese reporte en memoria y devuelve una respuesta confirmando que fue registrado.
+
+Después, consultecd "/workspaces/programadores-para-la-paz/Semana 7"
+node server.js la ruta GET /reportes para ver la lista de reportes almacenados.
+
+La respuesta esperada al hacer GET /reportes es un arreglo JSON con el reporte que acabo de guardar, por ejemplo:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Si envío varios reportes, el servidor los irá agregando a la lista y cada uno recibirá un id diferente.
