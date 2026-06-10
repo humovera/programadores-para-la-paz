@@ -1,0 +1,11 @@
+
+
+Buenas prácticas para plataformas comunitarias
+
+
+
+1. Evitar compartir números de identificación o direcciones completas en los reportes públicos.
+2. Cambiar las contraseñas de forma regular y usar autenticación en dos pasos cuando sea posible.
+3. Asegurar que la plataforma use HTTPS y certificados válidos para proteger la información.
+4. Mantener un registro de los accesos y de las acciones realizadas por cada usuario.
+5. Restringir la visualización de datos confidenciales solo al personal autorizado.

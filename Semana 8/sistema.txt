@@ -1,0 +1,10 @@
+Qué información muestra cada comando.
+
+uname -a: muestra información del sistema operativo, el nombre del kernel, la versión y la arquitectura.
+whoami: muestra el nombre del usuario que está ejecutando la sesión actual.
+
+
+Es útil porque permite identificar el entorno en el que funciona el servidor, verificar que el sistema operativo y la arquitectura sean
+los correctos y confirmar con qué usuario se está trabajando.
+También ayuda a diagnosticar problemas, revisar compatibilidad de programas y mantener un mejor control de la seguridad y configuración 
+del servidor.
