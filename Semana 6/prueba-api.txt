@@ -1,0 +1,24 @@
+Para probar la ruta POST /registro, primero ejecute el servidor desde la carpeta Semana 6 con:
+
+node server.js
+
+Luego, en otra terminal,(postman) envíe una petición POST a la URL:
+
+https://ideal-carnival-779v7p4jvwqwcx7p4-3000.app.github.dev/registro
+
+Con este JSON:
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Si el servidor funciona correctamente, devuelve esta respuesta:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto ocurre porque la ruta /registro recibe los datos enviados en el cuerpo de la petición y los devuelve en formato JSON.
