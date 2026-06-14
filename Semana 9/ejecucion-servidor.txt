@@ -1,0 +1,8 @@
+Qué ocurre cuando ejecutas node server.js.
+Cuando ejecutas `node server.js`, el servidor Express se inicia y queda escuchando en el puerto configurado.
+
+Qué mensaje aparece en la terminal.
+En la terminal aparece el mensaje: `Servidor ejecutándose en puerto 3000`.
+
+Qué sucede cuando visitas la ruta /estado.
+Al visitar la ruta `/estado`, el servidor responde con un mensaje de estado y un código 200 indicando que el servicio está activo.

@@ -1,0 +1,14 @@
+Sistema operativo
+El sistema operativo administra los recursos del equipo y permite que el servidor y Node.js se ejecuten. Es la capa base que controla procesos, memoria, redes y acceso al hardware.
+
+Node.js
+Node.js es el entorno de ejecución que interpreta JavaScript en el servidor. Permite ejecutar el código del servidor y manejar solicitudes HTTP de forma eficiente.
+
+Aplicación server.js
+`server.js` es el archivo que contiene la lógica del servidor Express. Define las rutas, responde a las solicitudes y arranca el servicio en un puerto específico.
+
+Puerto
+El puerto es el número de acceso que usa el servidor para recibir conexiones. Identifica el canal por el que llegan las peticiones HTTP a la aplicación.
+
+Logs
+Los logs registran eventos y mensajes del servidor durante su ejecución. Ayudan a monitorear actividad, detectar errores y revisar lo que sucede en producción.

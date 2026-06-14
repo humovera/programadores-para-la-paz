@@ -1,0 +1,12 @@
+
+Reflexión de la semana 
+
+
+Las plataformas comunitarias deben funcionar estable y seguras en un servidor
+esto garantiza que la información de los usuarios se mantenga protegida,
+un servidor estable evita caídas que interrumpen el acceso a los servicios
+la seguridad impide que terceros roben o manipulen datos sensibles.
+Cuando la plataforma es confiable, las personas confían en usarla
+un servidor bien gestionado permite mejor comunicación y colaboración
+también ayuda a mantener en línea actividades y decisiones colectivas
+así las comunidades pueden trabajar sin temor y con continuidad.
