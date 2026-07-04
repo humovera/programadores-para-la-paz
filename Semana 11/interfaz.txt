@@ -1,0 +1,11 @@
+
+
+interfaz básica
+
+Una interfaz simple para la plataforma podría tener una página principal con una lista de causas disponibles.
+Cada causa mostraría un título, una breve descripción y un contador de apoyos para que los usuarios vean qué tan apoyada está.
+También habría un formulario para crear una nueva causa, con campos como título, descripción y categoría.
+En cada tarjeta de causa se mostraría un botón para apoyar, que al presionarlo aumentaría el contador de apoyos.
+La interfaz debería ser clara y fácil de usar, para que cualquier persona pueda participar sin dificultad.
+Además, podría incluir una sección de filtros o búsqueda para encontrar causas por tema o estado.
+La idea es que la plataforma sea visualmente sencilla, organizada y accesible para la comunidad.

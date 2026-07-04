@@ -1,0 +1,11 @@
+
+Explicar autenticación
+
+
+El login es el proceso mediante el cual un usuario ingresa a una aplicación usando credenciales como correo y contraseña ademas
+permite identificar quién está accediendo al sistema y asignar permisos según su rol,
+algunas rutas deben estar protegidas porque contienen información sensible o funciones que solo deben usarse por usuarios autorizados:
+si una ruta no está protegida, cualquier persona podría entrar y modificar datos o ver información privada.
+no debería exponerse públicamente información como contraseñas, documentos de identidad, datos de contacto o información financiera.
+proteger estos datos ayuda a cuidar la privacidad de los usuarios y a evitar abusos o accesos indebidos.
+una buena autenticación también mejora la confianza en la plataforma y en los procesos que se realizan dentro de ella.

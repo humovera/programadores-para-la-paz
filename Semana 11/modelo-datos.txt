@@ -1,0 +1,25 @@
+
+Modelo de datos simple
+
+Entidad: Reporte
+
+Campos principales:
+- id
+- tipo
+- descripcion
+- fecha
+
+Propósito:
+Guardar los reportes que envían los miembros de la comunidad para registrar problemas o necesidades.
+
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre
+- correo
+- rol
+- fecha_registro
+
+Propósito:
+Registrar la información básica de las personas que participan en la plataforma y definir su rol dentro del sistema.

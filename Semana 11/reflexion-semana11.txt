@@ -1,0 +1,11 @@
+
+Reflexion de la semana  
+
+Una plataforma tecnológica que promueve la participación ciudadana debe tener base de datos porque necesita almacenar y organizar la 
+información de manera ordenada. La base de datos permite registrar causas, apoyos, usuarios y otros datos importantes para que el sistema 
+funcione correctamente. La autenticación de usuarios es esencial porque ayuda a identificar quién puede entrar a la plataforma y qué
+acciones puede realizar. Sin autenticación, cualquier persona podría modificar información o acceder a funciones que no le corresponden.
+La protección de la información es clave para cuidar la privacidad de los participantes y evitar usos indebidos de sus datos.
+También genera confianza, porque las personas se sienten más seguras al saber que su información está resguardada.
+Estas herramientas hacen que la plataforma sea más confiable, segura y útil para la comunidad.
+En resumen, la base de datos, la autenticación y la protección de datos son pilares para una participación ciudadana responsable y segura.
