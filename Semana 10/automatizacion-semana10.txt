@@ -1,0 +1,13 @@
+
+Flujo simple de automatización con n8n y Telegram
+
+
+
+¿Qué evento activa el flujo?
+El flujo se activa cuando un usuario envía una solicitud de ayuda o una incidencia desde la plataforma.
+
+¿Qué mensaje se enviaría a Telegram?
+Se enviaría un mensaje como: “Se recibió una nueva solicitud de ayuda. Revisar la plataforma para dar seguimiento.”
+
+¿Qué información no debería enviarse por seguridad?
+No se debería enviar información sensible como nombres completos, documentos de identidad, direcciones, teléfonos, claves o cualquier dato personal que pueda comprometer la privacidad de la persona.

@@ -1,0 +1,12 @@
+
+Reflexion de la semana
+
+Las metodologías ágiles ayudan porque permiten trabajar paso a paso, responder rápido a nuevas necesidades y ajustar las acciones según
+lo que realmente requiere la comunidad. la organización por iteraciones facilita resolver problemas de forma más ordenada y con mayor 
+claridad. La automatización reduce tareas repetitivas y permite que el equipo dedique más tiempo a atender necesidades importantes.
+con herramientas como n8n se pueden enviar alertas, recordatorios y seguimientos sin depender de procesos manuales ademas
+Telegram puede funcionar como un canal rápido de comunicación para informar, convocar y mantener en contacto a los participantes:
+Estas herramientas ayudan a que la participación ciudadana sea más constante, transparente y eficiente.
+También favorecen la colaboración entre personas con distintos roles y responsabilidades.
+En conjunto, las metodologías ágiles, la automatización y Telegram mejoran la coordinación, la respuesta oportuna y la confianza en los procesos 
+comunitarios.

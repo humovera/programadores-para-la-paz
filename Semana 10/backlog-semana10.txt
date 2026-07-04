@@ -1,0 +1,13 @@
+
+backlog básico
+
+Prioridad alta
+- Como vecino quiero reportar una problema de seguridad para que sea atendido oportunamente.
+- Como coordinador quiero recibir una notificación inmediata cuando se registre una nueva incidencia.
+
+Prioridad media
+- Como integrante de la comunidad quiero consultar los reportes anteriores para verificar el avance de cada caso.
+- Como voluntario quiero actualizar el estado de una incidencia para mantener informada a la comunidad.
+
+Prioridad baja
+- Como líder comunitario quiero generar un resumen mensual de incidentes para tomar decisiones mejor informadas.

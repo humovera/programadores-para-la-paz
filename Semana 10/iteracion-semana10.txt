@@ -1,0 +1,17 @@
+
+Definir una iteración simple
+
+¿Qué 2 tareas del backlog haría primero?
+Primero haría la tarea de reportar una incidencia y la tarea de recibir una notificación inmediata.
+
+¿Por qué son las más importantes?
+Porque son las que permiten que un problema sea detectado rápidamente y que la comunidad o el equipo pueda actuar de inmediato.
+
+¿Qué significa para mí que una tarea esté “terminada”?
+Para mí una tarea está terminada es cuando cumple con los objetivos esperados, funciona correctamente, fue revisada y queda registrada 
+de manera organizada.
+
+Definición simple de terminado:
+- Funciona correctamente.
+- Fue probada con un ejemplo real o simulado.
+- Quedó registrada de forma clara para el equipo.
