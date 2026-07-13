@@ -1,0 +1,24 @@
+
+Diseñar modelo de datos simple
+
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Representa una petición o problema comunitario que se quiere visibilizar en la plataforma.
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+Registra la participación de una persona que apoya una causa y permite contar cuántos apoyos tiene.

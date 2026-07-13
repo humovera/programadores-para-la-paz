@@ -1,0 +1,6 @@
+
+Describir automatización
+
+Evento: nuevo apoyo registrado en una causa
+Mensaje: “Se recibió un nuevo apoyo para una causa en la plataforma.”
+Información que no debe enviarse: cédulas, teléfonos, direcciones, correos personales o cualquier dato sensible del usuario.

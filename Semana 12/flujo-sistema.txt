@@ -1,0 +1,10 @@
+
+Describir el flujo del sistema
+
+1. Una persona identifica un problema comunitario y entra a la plataforma.
+2. Registra una petición o solicitud con un título breve y una descripción clara.
+3. El sistema guarda esa información en la base de datos para que quede registrada.
+4. Otros miembros de la comunidad pueden ver la petición y darle apoyo con un clic.
+5. El sistema cuenta los apoyos recibidos y muestra el número actualizado en la interfaz.
+6. Cuando la petición alcanza el número requerido, el sistema genera un documento PDF formal.
+7. El documento puede compartirse con autoridades, organizaciones o personas interesadas en apoyar la causa.
